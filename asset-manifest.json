@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc9d2100.css",
+    "main.js": "/static/js/main.5406b575.js",
+    "static/media/stories-2.jpg": "/static/media/stories-2.8dafcb1fb69ccc8810be.jpg",
+    "static/media/sports-1.jpg": "/static/media/sports-1.c18c7d208b9e2a6248b9.jpg",
+    "static/media/stories-1.jpg": "/static/media/stories-1.148988b1fa9c2fca7cc8.jpg",
+    "static/media/tech-1.jpg": "/static/media/tech-1.87f5ed3b69af2ff99e0f.jpg",
+    "static/media/fashion-4.jpg": "/static/media/fashion-4.3b73ee8c13d6d4c6e1aa.jpg",
+    "static/media/tech-5.jpg": "/static/media/tech-5.915c0093aa6e245a1bae.jpg",
+    "static/media/header-bg.jpg": "/static/media/header-bg.95cb2bc0720d8776eb61.jpg",
+    "static/media/tech-4.jpg": "/static/media/tech-4.68acc471cd801453ade9.jpg",
+    "static/media/sample-add.jpg": "/static/media/sample-add.5b3fbdd0022df6fb7a75.jpg",
+    "index.html": "/index.html",
+    "main.fc9d2100.css.map": "/static/css/main.fc9d2100.css.map",
+    "main.5406b575.js.map": "/static/js/main.5406b575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9d2100.css",
+    "static/js/main.5406b575.js"
+  ]
+}
